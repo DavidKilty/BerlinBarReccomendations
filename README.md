@@ -3,7 +3,7 @@
 <html>
 <head>
 <link rel="stylesheet" href="index.css" type="text/css">
-<title> Berlin Bar Recommendations </title>
+
 </head>
 <body>
 <h1>The Best Bars In Berlin #TBBIB</h1>
